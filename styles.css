@@ -126,15 +126,15 @@ select.noStyle {
   background-size: cover; */
   font-family: "Archivo", sans-serif;
   font-weight: bold;
-  padding-top: 80px;
-  margin-top: 20px;
+  /* padding-top: 30px; */
+  /* margin-top: 20px; */
   /* min-height: 65svh; */
 }
 /*==================where section======================*/
 .wheresec {
   font-family: "Archivo", sans-serif;
   font-weight: bold;
-  padding-top: 80px;
+  padding-top: 40px;
   margin-bottom: 20px;
   /* min-height: 80svh; */
 }
